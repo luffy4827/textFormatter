@@ -35,11 +35,6 @@ function App() {
     }
   }
 
-
-
-
-
-  
   return (
     <>
       <Navbar title="TextForrmatter" aboutpage="About" mode={mode} toggleMode={toggleMode} />
